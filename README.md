@@ -40,9 +40,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: RANJAN KUMAR G
+### Name: JOEL JOHN JOBINSE
 
-### Register Number: 212223240138
+### Register Number: 212223240062
 
 ```
 from google.colab import drive
